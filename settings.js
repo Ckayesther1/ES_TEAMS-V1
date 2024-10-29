@@ -45,18 +45,18 @@ global.location = "Nigeria, Cross River, Calabar" //ur location
 
 //new
 global.botname = '𝐄𝐒 𝐓𝐄𝐀𝐌𝐒-𝐕𝟏' //ur bot name
-global.ownernumber = ['2349075768848'] //ur owner number, dont add more than one
-global.ownername = 'starlet'//ur owner name
+global.ownernumber = ['2348069016472'] //ur owner number, dont add more than one
+global.ownername = '✞𝖘𝖆𝖌𝖊✞Č_ķãý♡⚡⚡'//ur owner name
 global.websitex = "https://youtube.com/@esteams"
 global.wagc = "https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y"
 global.themeemoji = '⛩'
 global.wm = "Es Teams Inc..."
 global.botscript = 'https://github.com/paskito002/ES_TEAMS-V1' //script link
-global.packname = "ᴇꜱ ᴛᴇᴀᴍꜱ ᴛᴇᴄʜ 👑"
-global.author = "MΛDΣ BY starlet "
-global.creator = "2349075768848@s.whatsapp.net"
+global.packname = "✞𝖘𝖆𝖌𝖊✞Č_ķãý♡⚡⚡"
+global.author = "MΛDΣ BY ✞𝖘𝖆𝖌𝖊✞Č_ķãý♡⚡⚡ "
+global.creator = "2348069016472@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2349075768848"] // Premium User
+global.premium = ["2348069016472"] // Premium User
 
 //bot sett
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
@@ -66,7 +66,7 @@ global.antiforeignnumber = '91' //set anti foreign number country code
 global.antidelete = false //set anti delete 
 
 
-global.listv = ['🕷️','❄️','🥀','🍀','🍁','🫧','✨','🌹','🌟','💀','✌','💕']
+global.listv = ['🕷️','❄️','🥀','🍀','🍁','🫧','✨','🌹','🌟','💀','✌','💕','🎮']
 global.tempatDB = 'database.json'
 
 //---------------------------------------------------------------------------------------//
